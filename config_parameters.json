@@ -1,5 +1,6 @@
 {
     "Parameters": {
+        
         "KeyName": "roshan_keypair",
         "InstanceType": "t2.small",
         "SSHLocation": "10.0.0.0/32",
